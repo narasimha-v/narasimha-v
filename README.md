@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats-tau-three-52.vercel.app/api/top-langs?username=narasimha-v&show_icons=true&locale=en&layout=compact&count_private=true" alt="narasimha-v"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-three-52.vercel.app/api?username=narasimha-v&show_icons=true&count_private=true&locale=en"&hide_rank="true" alt="narasimha-v" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-three-52.vercel.app/api?username=narasimha-v&show_icons=true&count_private=true&locale=en&hide_rank=true" alt="narasimha-v" /></p>
