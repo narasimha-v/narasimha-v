@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/narasimha-v](https://github.com/narasimha-v)
 
-- 💬 Ask me about **React, React-Native**
+- 💬 Ask me about **Node, React, Postgres, System design & Clean code**
 
 - 📫 How to reach me **vnarasimha.connect@gmail.com**
 
