@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasimha-v" alt="narasimha-v" /></a> </p>
 
-- 🌱 I’m currently working on **React, React-Native, Typescript, Kotlin & Express**
+- 🌱 I’m currently working on **Express, Node, React, React-Native, Typescript, Kotlin, Python & Django**
 
 - 👯 I’m looking to collaborate on **React, Kotlin & Flutter projects**
 
