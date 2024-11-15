@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha-v&label=Profile%20views&color=0e75b6&style=flat" alt="narasimha-v" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasimha-v&theme=onedark" alt="narasimha-v" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-git-master-narasimhavs-projects.vercel.app/?username=narasimha-v&theme=onedark" alt="narasimha-v" /></a> </p>
 
 - 🌱 I’m currently working on **Express, Node, React, React-Native, Typescript, Kotlin, Python & Django**
 
