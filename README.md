@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **Express, Node, React, React-Native, Typescript, Kotlin, Python & Django**
 
-- 👯 I’m looking to collaborate on **React, Kotlin & Flutter projects**
+- 👯 I’m looking to collaborate on **Node, Golang, React, Kotlin & Flutter projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/narasimha-v](https://github.com/narasimha-v)
 
