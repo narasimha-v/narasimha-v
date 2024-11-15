@@ -18,6 +18,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<a href="https://www.linkedin.com/in/narasimha-v-b9b6a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narasimha-v" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13427662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13427662" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/narasimha-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="narasimha-v" height="30" width="40" /></a>
 </p>
@@ -51,9 +52,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
@@ -84,17 +82,8 @@
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"/> 
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
-  </a>
-  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/> 
-  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
-  </a>
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/> 
   </a>
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron.js"/> 
@@ -104,9 +93,6 @@
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/> 
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/> 
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/> 
@@ -129,9 +115,6 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"/>
   </a>
-  <a href="https://solidjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb" alt="SolidJS"/>
-  </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   </a>
@@ -152,9 +135,6 @@
   </a>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Amazon DynamoDB"/>
-  </a>
-  <a href="https://www.couchbase.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" alt="Couchbase"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
@@ -177,23 +157,11 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   </a>
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  </a>
-  <a href="https://www.twilio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio"/>
   </a>
   <a href="https://prettier.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
@@ -209,9 +177,6 @@
   </a>
   <a href="https://fastlane.tools/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
