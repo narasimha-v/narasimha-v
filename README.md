@@ -193,4 +193,4 @@
 
 <p><img align="left" src="https://github-readme-stats-tau-three-52.vercel.app/api/top-langs?username=narasimha-v&show_icons=true&locale=en&count_private=true&theme=codeSTACKr&langs_count=6&layout=pie" alt="narasimha-v"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-three-52.vercel.app/api?username=narasimha-v&show_icons=true&count_private=true&locale=en&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage" alt="narasimha-v" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-three-52.vercel.app/api?username=narasimha-v&show_icons=true&count_private=true&locale=en&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true" alt="narasimha-v" /></p>
